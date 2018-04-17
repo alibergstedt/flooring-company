@@ -1,0 +1,28 @@
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.csprojResolveAssemblyReference.cache
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.dll.config
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.pdb
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.BLL.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.DATA.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.Models.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\nunit.framework.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.BLL.pdb
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.DATA.pdb
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.Models.pdb
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\nunit.framework.xml
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.dll.config
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMasteryTests.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.DATA.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.Models.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\nunit.framework.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.DATA.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\bin\Debug\nunit.framework.xml
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMasteryTests\obj\Debug\FlooringMasteryTests.pdb

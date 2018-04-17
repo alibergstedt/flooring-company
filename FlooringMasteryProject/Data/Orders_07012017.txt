@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Jane Doe,PA,6.75,Laminate,230.00,1.75,2.10,402.50,483,59.77,945.27

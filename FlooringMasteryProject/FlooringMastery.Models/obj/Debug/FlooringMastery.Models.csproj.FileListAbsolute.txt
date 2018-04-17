@@ -1,0 +1,10 @@
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+c:\users\bergs\onedrive\documents\visual studio 2015\Projects\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\bergs\swcguild\Final\FlooringMasteryProject\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
